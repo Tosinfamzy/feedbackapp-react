@@ -2,7 +2,7 @@ import FeedbackList from "./components/FeedbackList";
 import Header from "./components/Header";
 import FeedbackStats from "./components/FeedbackStats";
 import FeedbackForm from "./components/FeedbackForm";
-import { FeedbackProvider } from "./components/FeedbackContext";
+import { FeedbackProvider } from "./context/FeedbackContext";
 
 function App() {
 
